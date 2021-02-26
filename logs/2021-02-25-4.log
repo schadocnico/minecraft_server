@@ -1,0 +1,50 @@
+[13:34:11] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:34:11] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:34:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:34:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:34:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:34:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:34:11] [main/INFO]: Reloading ResourceManager: Default
+[13:34:11] [Worker-Main-12/INFO]: Loaded 7 recipes
+[13:34:11] [Worker-Main-12/INFO]: Loaded 1052 advancements
+[13:34:12] [Server thread/INFO]: Starting minecraft server version 21w07a
+[13:34:12] [Server thread/INFO]: Loading properties
+[13:34:12] [Server thread/INFO]: Default game type: SURVIVAL
+[13:34:12] [Server thread/INFO]: Generating keypair
+[13:34:12] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Descripteur non valide
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at zw$1.run(SourceFile:94) [server.jar:?]
+[13:34:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:34:13] [Server thread/INFO]: Using default channel type
+[13:34:13] [Server thread/INFO]: Preparing level "world"
+[13:34:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:34:14] [Server thread/INFO]: Preparing spawn area: 0%
+[13:34:14] [Server thread/INFO]: Preparing spawn area: 0%
+[13:34:14] [Server thread/INFO]: Preparing spawn area: 20%
+[13:34:14] [Server thread/INFO]: Time elapsed: 1199 ms
+[13:34:14] [Server thread/INFO]: Done (1.271s)! For help, type "help"
+[13:34:14] [User Authenticator #1/INFO]: UUID of player pif45 is 5aa1698a-5842-47b4-8480-4a4f113beaf9
+[13:34:15] [Server thread/INFO]: pif45[/46.193.65.234:50919] logged in with entity id 85 at (-291.6309330772674, 52.03814622162828, 63.497563823973195)
+[13:34:15] [Server thread/INFO]: pif45 joined the game
+[13:43:52] [Server thread/INFO]: pif45 lost connection: Disconnected
+[13:43:52] [Server thread/INFO]: pif45 left the game
+[13:44:09] [User Authenticator #2/INFO]: UUID of player Incognico45 is 84be1b40-660e-410a-ad2d-eec847173fc5
+[13:44:09] [Server thread/INFO]: Incognico45[/192.168.1.254:57082] logged in with entity id 2363 at (-206.5734166642286, 68.0, -235.71949513115493)
+[13:44:09] [Server thread/INFO]: Incognico45 joined the game
+[14:04:50] [Server thread/INFO]: Incognico45 lost connection: Disconnected
+[14:04:50] [Server thread/INFO]: Incognico45 left the game
+[14:06:38] [User Authenticator #3/INFO]: UUID of player Incognico45 is 84be1b40-660e-410a-ad2d-eec847173fc5
+[14:06:38] [Server thread/INFO]: Incognico45[/192.168.1.254:57831] logged in with entity id 5832 at (-96.34436593300947, 72.0, -274.7091498827397)
+[14:06:38] [Server thread/INFO]: Incognico45 joined the game
+[14:11:01] [Server thread/INFO]: Seed: [5142929429569913774]

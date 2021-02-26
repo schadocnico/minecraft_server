@@ -1,0 +1,58 @@
+[00:01:53] [Server thread/INFO]: Incognico45 lost connection: Disconnected
+[00:01:53] [Server thread/INFO]: Incognico45 left the game
+[00:16:43] [User Authenticator #17/INFO]: UUID of player pif45 is 5aa1698a-5842-47b4-8480-4a4f113beaf9
+[00:16:44] [Server thread/INFO]: pif45[/46.193.65.234:53943] logged in with entity id 123872 at (-203.42597913391, 64.0, -258.6665954180434)
+[00:16:44] [Server thread/INFO]: pif45 joined the game
+[00:20:05] [Server thread/INFO]: pif45 lost connection: Disconnected
+[00:20:05] [Server thread/INFO]: pif45 left the game
+[00:20:52] [User Authenticator #18/INFO]: UUID of player pif45 is 5aa1698a-5842-47b4-8480-4a4f113beaf9
+[00:20:52] [Server thread/INFO]: pif45[/46.193.65.234:53963] logged in with entity id 124770 at (-61.35304426217586, 66.9375, -299.3458090405347)
+[00:20:53] [Server thread/INFO]: pif45 joined the game
+[00:21:00] [User Authenticator #19/INFO]: UUID of player pif45 is 5aa1698a-5842-47b4-8480-4a4f113beaf9
+[00:21:00] [Server thread/INFO]: pif45 lost connection: You logged in from another location
+[00:21:00] [Server thread/INFO]: pif45 left the game
+[00:21:00] [Server thread/INFO]: pif45[/46.193.65.234:53964] logged in with entity id 124996 at (-62.13424856473428, 66.9375, -300.92650015871965)
+[00:21:00] [Server thread/INFO]: pif45 joined the game
+[00:23:10] [User Authenticator #20/INFO]: UUID of player martintin_ is 1cd4516c-7964-472b-a144-b8c0e5eeaf8e
+[00:23:11] [Server thread/INFO]: martintin_[/90.107.13.174:53104] logged in with entity id 125437 at (-214.46168873407711, 64.0, -263.9440618233852)
+[00:23:11] [Server thread/INFO]: martintin_ joined the game
+[00:23:17] [Server thread/INFO]: <pif45> wsh
+[00:23:24] [Server thread/INFO]: <martintin_> wsh
+[00:23:32] [Server thread/INFO]: <martintin_> t ou
+[00:23:46] [Server thread/INFO]: <pif45> mouton
+[00:25:02] [Server thread/INFO]: <pif45> vien dormire
+[00:25:13] [Server thread/INFO]: <pif45> c ta chambre la nouvelle ?
+[00:25:19] [Server thread/INFO]: <martintin_> oui
+[00:25:38] [Server thread/INFO]: <pif45> ouah t'a fais le chemain jusqu'a la mer ?
+[00:34:38] [Server thread/INFO]: martintin_ was blown up by Creeper
+[00:41:47] [User Authenticator #21/INFO]: UUID of player Incognico45 is 84be1b40-660e-410a-ad2d-eec847173fc5
+[00:41:47] [Server thread/INFO]: Incognico45[/192.168.1.254:64480] logged in with entity id 131545 at (-191.30000001192093, 64.0, -202.69999998807907)
+[00:41:47] [Server thread/INFO]: Incognico45 joined the game
+[00:44:06] [Server thread/INFO]: Incognico45 lost connection: Disconnected
+[00:44:06] [Server thread/INFO]: Incognico45 left the game
+[00:50:21] [Server thread/INFO]: <pif45> tu veu un truc ?
+[00:50:29] [Server thread/INFO]: martintin_ was slain by pif45
+[00:50:31] [Server thread/INFO]: <pif45> oups
+[00:50:37] [Server thread/INFO]: <pif45> mmmdr
+[01:02:46] [Server thread/INFO]: <pif45> tu connais goldorak ?
+[01:05:17] [Server thread/INFO]: pif45 lost connection: Disconnected
+[01:05:17] [Server thread/INFO]: pif45 left the game
+[01:18:31] [Server thread/INFO]: <martintin_> Y'A DES GROTTES A TOUTES LES PROFONDEURS ?
+[01:34:33] [Server thread/INFO]: [Server] oui
+[01:35:06] [Server thread/INFO]: [Server] c'est quoi la dif entre fonction et methode ?
+[01:44:06] [Server thread/INFO]: <martintin_> MDRR
+[01:45:29] [Server thread/INFO]: martintin_ lost connection: Disconnected
+[01:45:29] [Server thread/INFO]: martintin_ left the game
+[06:56:51] [Server thread/INFO]: Stopping the server
+[06:56:52] [Server thread/INFO]: Stopping server
+[06:56:52] [Server thread/INFO]: Saving players
+[06:56:52] [Server thread/INFO]: Saving worlds
+[06:56:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:56:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:56:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:56:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:56:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:56:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:56:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:56:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:56:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
